@@ -1,0 +1,4 @@
+dados/suppliers.txt
+dados/offers.txt
+dados/clients.txt
+dados/bookings.txt

@@ -1,0 +1,7 @@
+#Ignore all non-essential files
+Debug/
+.settings/
+AEDA.vcxproj
+AEDA.vcxproj.filters
+.cproject
+.project

@@ -1,0 +1,37 @@
+9
+Registered 0 1 1234
+Alfredo newman
+Rua 5 outubro
+
+Ocasional 2 124
+Juan Carlos
+Rua de la calle
+
+Registered 0 3 214
+Ana Pereira
+Rua miraflores
+
+Registered 0 7 99424
+Justino Girassol
+rua abstrata
+
+Ocasional 8 592
+Sr Manuel Cabral
+Rua do bicalho
+
+Registered 0 9 1255
+Ramiro Guahli
+Alameda da paz
+
+Registered 0 10 542
+Marco Lourenco
+Rua do Sol
+
+Registered 0 11 5144
+Cliente para ina
+Rua dos inativos
+
+Registered 0 12 123
+asdasf
+adsfsf
+

@@ -1,0 +1,30 @@
+6
+1 12556
+john lenon
+Rua Frei Luis
+0 
+
+2 122323
+Carlos manuelino
+Rua da palma
+0 
+
+3 14124
+Pedro Monetrio
+rua do bicalho
+3 1 2 3
+
+4 2123
+Carla Araujo
+Travessa das Lages
+4 4 5 6 8
+
+5 123
+aoen
+oernjg
+0 
+
+6 502432
+Jose Fornecedor
+Rua da esquinaria
+1 7
