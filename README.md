@@ -5,7 +5,7 @@ Univeristy Subject - Algorithms and Data Structures Project
 
 2016/2017
 
-Bookings Management System - a proof of concept implementation in c++.
+Bookings Management System - a proof of concept implementation in C++.
 
 ## Interesting features
  - Binary Search Tree ([BST](https://github.com/msramalho/feup-aeda/blob/master/BST.h))
